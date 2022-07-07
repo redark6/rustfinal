@@ -1,0 +1,12 @@
+C:\Users\Red\Desktop\final rust\client\target\debug\deps\textwrap-499ba4e47dd383a2.rmeta: C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\lib.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\indentation.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\word_separators.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\word_splitters.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\wrap_algorithms.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\core.rs
+
+C:\Users\Red\Desktop\final rust\client\target\debug\deps\libtextwrap-499ba4e47dd383a2.rlib: C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\lib.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\indentation.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\word_separators.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\word_splitters.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\wrap_algorithms.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\core.rs
+
+C:\Users\Red\Desktop\final rust\client\target\debug\deps\textwrap-499ba4e47dd383a2.d: C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\lib.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\indentation.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\word_separators.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\word_splitters.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\wrap_algorithms.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\core.rs
+
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\lib.rs:
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\indentation.rs:
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\word_separators.rs:
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\word_splitters.rs:
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\wrap_algorithms.rs:
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.15.0\src\core.rs:

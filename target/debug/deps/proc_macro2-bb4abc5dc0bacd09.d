@@ -1,0 +1,12 @@
+C:\Users\Red\Desktop\final rust\client\target\debug\deps\proc_macro2-bb4abc5dc0bacd09.rmeta: C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\lib.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\marker.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\parse.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\detection.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\fallback.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\wrapper.rs
+
+C:\Users\Red\Desktop\final rust\client\target\debug\deps\libproc_macro2-bb4abc5dc0bacd09.rlib: C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\lib.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\marker.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\parse.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\detection.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\fallback.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\wrapper.rs
+
+C:\Users\Red\Desktop\final rust\client\target\debug\deps\proc_macro2-bb4abc5dc0bacd09.d: C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\lib.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\marker.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\parse.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\detection.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\fallback.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\wrapper.rs
+
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\lib.rs:
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\marker.rs:
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\parse.rs:
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\detection.rs:
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\fallback.rs:
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\wrapper.rs:
