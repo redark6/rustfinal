@@ -1,0 +1,13 @@
+C:\Users\Red\Desktop\final rust\client\target\debug\deps\quote-1a478d16f5267f03.rmeta: C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\lib.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\ext.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\format.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\ident_fragment.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\to_tokens.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\runtime.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\spanned.rs
+
+C:\Users\Red\Desktop\final rust\client\target\debug\deps\libquote-1a478d16f5267f03.rlib: C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\lib.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\ext.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\format.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\ident_fragment.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\to_tokens.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\runtime.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\spanned.rs
+
+C:\Users\Red\Desktop\final rust\client\target\debug\deps\quote-1a478d16f5267f03.d: C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\lib.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\ext.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\format.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\ident_fragment.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\to_tokens.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\runtime.rs C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\spanned.rs
+
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\lib.rs:
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\ext.rs:
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\format.rs:
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\ident_fragment.rs:
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\to_tokens.rs:
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\runtime.rs:
+C:\Users\Red\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.20\src\spanned.rs:
